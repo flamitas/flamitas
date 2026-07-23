@@ -15,41 +15,35 @@ Passionate about building modern web applications, clean user interfaces, scalab
 
 ## 👨‍💻 About Me
 
-```ts
+```js
 const alejandro = {
-  name: "Alejandro Borges",
-  location: "Maracay, Aragua, Venezuela 🇻🇪",
   role: "Full Stack Developer",
-  focus: [
-    "Building modern web applications",
-    "Creating reusable UI components",
-    "Developing RESTful APIs",
-    "Improving performance, accessibility, and SEO",
-  ],
-  mainStack: {
-    frontend: ["Angular", "JavaScript", "TypeScript", "HTML", "CSS"],
-    backend: ["Node.js", "Express.js", "NestJS"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    tools: ["Git", "GitHub", "Docker", "Postman", "Vercel"],
-  },
-  currentlyLearning: [
-    "Composable architecture",
-    "Modern CMS workflows",
-    "Advanced backend patterns",
-    "AI-powered development tools",
-  ],
-  mindset: [
-    "Clean code",
-    "Maintainable systems",
-    "Continuous learning",
-    "Practical problem solving",
-  ],
+  location: "Maracay, Venezuela",
+  stack: ["Angular", "Node.js", "NestJS", "TypeScript"],
 };
 ```
 
-I'm a Full Stack Developer with hands-on experience building web applications with Angular, Node.js, and RESTful APIs. I enjoy creating useful products, improving code quality, and working on solutions that balance performance, maintainability, and user experience.
+I'm a Full Stack Developer from Maracay, Aragua, Venezuela, focused on building modern web applications with Angular, Node.js, NestJS and RESTful APIs.
 
-I'm especially interested in growing toward stronger full-stack and frontend engineering roles, contributing to real products, and continuing to sharpen my skills in modern architecture, backend systems, and AI-assisted development.
+I enjoy creating useful digital products, designing reusable UI components, and working on backend services that are scalable, maintainable, and well documented. My work is guided by clean code, performance, accessibility, and a strong focus on user experience.
+
+**What I do:**
+- Develop frontend applications with Angular, JavaScript and TypeScript.
+- Build backend services and RESTful APIs with Node.js, Express.js and NestJS.
+- Work with SQL and NoSQL databases like MySQL, PostgreSQL and MongoDB.
+- Use Git and GitHub for version control, branching, pull requests and code reviews.
+- Improve performance, accessibility and SEO following modern best practices.
+
+**Currently learning:**
+- Composable architectures and modern CMS workflows.
+- Advanced backend patterns and cloud-oriented development.
+- AI-powered development tools and practical automations.
+
+**Mindset:**
+- Clean, readable and maintainable code.
+- Continuous learning and growth.
+- Pragmatic problem solving.
+- Building products that are actually useful for people.
 
 ---
 
@@ -179,11 +173,5 @@ I'm especially interested in growing toward stronger full-stack and frontend eng
 - Learning about new technologies, web architecture, and better development workflows.
 - Playing video games and enjoying interactive digital experiences.
 - Watching tech content, tutorials, and content about software, gaming, and online business.
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/flamitas)
-[![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-
-</div>
-
-## 🎮 When I'm Not Coding...
 
 
