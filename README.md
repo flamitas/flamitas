@@ -133,6 +133,7 @@ A lightweight exchange-rate web app for Venezuela that displays BCV dollar and e
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🎓 Certifications & Courses
