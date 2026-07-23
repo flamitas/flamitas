@@ -202,3 +202,9 @@ Short description here.
 - Learning about software architecture and modern development workflows.
 - Playing video games and enjoying interactive digital experiences.
 - Watching tech, development, and gaming content.
+
+<div align="center">
+⚡ "Innovation distinguishes between a leader and a follower." – Steve Jobs
+![Profile Views](https://komarev.com/ghpvc/?username=ThorJam&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
