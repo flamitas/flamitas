@@ -144,6 +144,7 @@ Short description here.
 ## 🎓 Certifications & Courses
 
 ### Anthropic
+
 - AI Fluency Framework & Foundations
 - Claude 101
 - Claude with the Anthropic API
@@ -153,53 +154,55 @@ Short description here.
 - Flowwork Claude
 
 ### Capacítate para el Empleo
-- Administrador de bases de datos — 83 h — 09 Mar 2026
-- Administrador de la nube — 50 h — 18 Mar 2026
-- Administrador de servidores — 100 h — 18 Feb 2026
-- Asesor de servicios de infraestructura — 65 h — 16 Mar 2026
-- Control de versiones — 21 h — 21 Feb 2026
-- Curador de datos — 30 h — 07 Mar 2026
-- Desarrollador Back-end — 106 h — 11 Mar 2026
-- Desarrollador de aplicaciones — 75 h — 17 Mar 2026
-- Desarrollador de aplicaciones — 115 h — 13 Mar 2026
-- Desarrollador de interfaces — 72 h — 23 Feb 2026
-- Desarrollador de sitios web — 62 h — 26 Feb 2026
-- Desarrollador de videojuegos — 70 h — 12 Mar 2026
-- Desarrollador Front-end — 96 h — 20 Feb 2026
-- Diseñador de experiencia de usuario — 51 h — 19 Feb 2026
-- Finder — 26 h — 28 Feb 2026
-- Fundamentos de virtualización — 63 h — 15 Mar 2026
-- Fundamentos del cómputo en la nube — 45 h — 14 Mar 2026
-- Instalador de fibra óptica — 35 h — 06 Mar 2026
-- Preprocesadores de estilo — 38 h — 24 Feb 2026
-- Programador orientado a objetos — 82 h
-- Reparador de celulares y tabletas — 62 h — 05 Mar 2026
-- Técnico en informática (Ofimática) — 91 h — 01 Mar 2026
-- Técnico en instalación y reparación de equipos — 103 h — 04 Mar 2026
-- Técnico en redes de datos — 61 h — 02 Mar 2026
-- Técnico en seguridad en la nube — 58 h — 19 Mar 2026
-- Técnico en seguridad informática — 65 h — 03 Mar 2026
+
+- Database Administrator — 83 hours — Mar 09, 2026
+- Cloud Administrator — 50 hours — Mar 18, 2026
+- Server Administrator — 100 hours — Feb 18, 2026
+- Infrastructure Services Advisor — 65 hours — Mar 16, 2026
+- Version Control — 21 hours — Feb 21, 2026
+- Data Curator — 30 hours — Mar 07, 2026
+- Back-End Developer — 106 hours — Mar 11, 2026
+- Application Developer — 75 hours — Mar 17, 2026
+- Application Developer — 115 hours — Mar 13, 2026
+- Interface Developer — 72 hours — Feb 23, 2026
+- Website Developer — 62 hours — Feb 26, 2026
+- Video Game Developer — 70 hours — Mar 12, 2026
+- Front-End Developer — 96 hours — Feb 20, 2026
+- User Experience Designer — 51 hours — Feb 19, 2026
+- Finder — 26 hours — Feb 28, 2026
+- Virtualization Fundamentals — 63 hours — Mar 15, 2026
+- Cloud Computing Fundamentals — 45 hours — Mar 14, 2026
+- Fiber Optic Installer — 35 hours — Mar 06, 2026
+- CSS Preprocessors — 38 hours — Feb 24, 2026
+- Object-Oriented Programmer — 82 hours
+- Mobile Phone and Tablet Repair Technician — 62 hours — Mar 05, 2026
+- IT Technician (Office Productivity) — 91 hours — Mar 01, 2026
+- Computer Installation and Repair Technician — 103 hours — Mar 04, 2026
+- Data Network Technician — 61 hours — Mar 02, 2026
+- Cloud Security Technician — 58 hours — Mar 19, 2026
+- Information Security Technician — 65 hours — Mar 03, 2026
 
 ### Claseflix
-- Ventas
-- Administración de Empresas
-- Análisis Financiero
-- Asistente Virtual
-- Automatizaciones con IA
+
+- Sales
+- Business Administration
+- Financial Analysis
+- Virtual Assistant
+- AI Automations
 - ChatGPT
-- Ciberseguridad
+- Cybersecurity
 - Community Manager
-- Contabilidad
-- Criptomonedas
+- Accounting
+- Cryptocurrencies
 - JavaScript
-- Educación Financiera
+- Financial Education
 - Excel
-- Gerencia
-- Manipulación de Alimentos
+- Management
+- Food Handling
 - Midjourney
 - Notion
-- Tienda Online WordPress
-- Inglés B1
+- WordPress Online Store
+- English B1
 
 ---
 
