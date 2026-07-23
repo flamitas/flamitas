@@ -108,19 +108,31 @@ Composable architecture, cloud workflows, AI-powered development
 
 ## 🚀 Featured Projects
 
-> Coming soon...
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<!--
-### Project Name
-Short description here.
+### [ThorJam](https://www.thorjam.com/)
 
-### Project Name
-Short description here.
+A modern web solutions platform focused on transforming ideas into digital products and online experiences. It showcases service pages, pricing, features, team information, contact flows, and multiple product demos such as marketplace, hotel, ecommerce, and social features.
 
-### Project Name
-Short description here.
--->
+</td>
+<td width="33%" valign="top">
 
+### [ThorJam Shop](https://www.shop.thorjam.com/)
+
+An online store project built as part of the ThorJam ecosystem. It is intended as a digital shopping experience for product browsing and ecommerce workflows, and serves as a practical example of online catalog and store implementation.
+
+</td>
+<td width="33%" valign="top">
+
+### [TasaBolivar](https://www.tasabolivar.thorjam.com/)
+
+A lightweight exchange-rate web app for Venezuela that displays BCV dollar and euro rates, as well as USDT in bolívares. It includes a built-in calculator, quick rate updates, and a mobile-friendly experience designed for fast daily use.
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🎓 Certifications & Courses
