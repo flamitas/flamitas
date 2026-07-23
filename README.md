@@ -70,6 +70,25 @@ I enjoy creating useful digital products, designing reusable UI components, and 
 
 ---
 
+## 🚀 Featured Projects
+
+> Coming soon...
+
+<!--
+Project 1
+### Project Name
+Short description here.
+
+Project 2
+### Project Name
+Short description here.
+
+Project 3
+### Project Name
+Short description here.
+-->
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
