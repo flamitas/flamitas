@@ -15,11 +15,35 @@ Passionate about building modern web applications, clean user interfaces, scalab
 
 ## 👨‍💻 About Me
 
-```js
+```ts
 const alejandro = {
+  name: "Alejandro Borges",
+  location: "Maracay, Aragua, Venezuela 🇻🇪",
   role: "Full Stack Developer",
-  location: "Maracay, Venezuela",
-  stack: ["Angular", "Node.js", "NestJS", "TypeScript"],
+  focus: [
+    "Building modern web applications",
+    "Creating reusable UI components",
+    "Developing RESTful APIs",
+    "Improving performance, accessibility, and SEO",
+  ],
+  mainStack: {
+    frontend: ["Angular", "JavaScript", "TypeScript", "HTML", "CSS"],
+    backend: ["Node.js", "Express.js", "NestJS"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    tools: ["Git", "GitHub", "Docker", "Postman", "Vercel"],
+  },
+  currentlyLearning: [
+    "Composable architecture",
+    "Modern CMS workflows",
+    "Advanced backend patterns",
+    "AI-powered development tools",
+  ],
+  mindset: [
+    "Clean code",
+    "Maintainable systems",
+    "Continuous learning",
+    "Practical problem solving",
+  ],
 };
 ```
 
