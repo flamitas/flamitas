@@ -18,7 +18,7 @@
 Passionate Full Stack Developer with expertise in creating innovative digital solutions. Specialized in building exceptional web experiences with a focus on quality, performance, and user experience.
 
 const alejandro = {
-location: "El Limón, Aragua, Venezuela 🇻🇪",
+location: "Maracay, Aragua, Venezuela 🇻🇪",
 currentRole: "Full Stack Developer",
 workingOn: "Modern Web Applications & Digital Solutions",
 technologies: {
